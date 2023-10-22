@@ -10,3 +10,6 @@
 ```powershell
 Get-ChildItem -Path $env:SystemRoot
 ```
+
+- [ ] Lag en oppgaveliste
+- [x] Gå tur utendørs
